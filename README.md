@@ -70,4 +70,4 @@
 
 <br/>
 
-[![Profile badge](https://www.codewars.com/users/kondyan2022/badges/small)](https://www.codewars.com/users/kondyan2022)
+[![Profile badge](https://www.codewars.com/users/kondyan2022/badges/micro)](https://www.codewars.com/users/kondyan2022)
