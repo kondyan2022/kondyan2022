@@ -1,4 +1,4 @@
-### <div align="center">Hey 👋, I'm Yan, a junior fullstack developer</div>
+### <div align="center">Hey 👋, I'm Yan</div>
 
 <br/>
 
