@@ -81,4 +81,3 @@
 
 <br/>
 
-[![Profile badge](https://www.codewars.com/users/kondyan2022/badges/micro)](https://www.codewars.com/users/kondyan2022)
